@@ -121,13 +121,6 @@ const data = [
       </p>
       <p>期间经历了双十一，我们为新家添置了很多新的家具</p>
       <p>现在，家终于有了该有的样子啦！</p>
-      <video src="videos/1.mp4" controls="controls"></video>
-      <video src="videos/2.mp4" controls="controls"></video>
-      <video src="videos/3.mp4" controls="controls"></video>
-      <video src="videos/4.mp4" controls="controls"></video>
-      <video src="videos/5.mp4" controls="controls"></video>
-      <video src="videos/6.mp4" controls="controls"></video>
-      <video src="videos/7.mp4" controls="controls"></video>
     `,
   },
   {
@@ -343,7 +336,6 @@ const data = [
     content: `
       <p>没错了，小倩家要拆迁了，公告都下来了</p>
       <p>之前看过一篇文章，讲的是一个男的家拆迁了，然后把自己的女友甩了，回家当自己的暴发户了。我突然后脑勺一冷。理论上这事不会发生在我的身上</p>
-      <img src="images/xiaoqian.jpg" />
     `,
   },
   {
@@ -353,7 +345,6 @@ const data = [
     content: `
       <p>这个周末是双十一，又是各种破纪录啊，但是我渐渐开始不怎么购物了，但不是没有闲钱可以挥霍，是真的不缺什么，这个双十一我就买了个篮球，现在想着重学习下运球</p>
       <p>周末，大学的老友翔哥来找我玩，真是好久不见啊，一别就是三年，大家基本没有啥变化吧，大家都又成熟了点吧，只是生活圈不一样了，话题少了很多。也忘记合个照了，放张翔哥最近的朋友圈照</p>
-      <img src="images/gaoxiang.jpg" />
       <p>有看上的朋友，可以私信我哦，翔哥最近很是寂寞，想出去玩都没有人陪</p>
     `,
   },

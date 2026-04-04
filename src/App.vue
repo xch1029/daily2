@@ -1,7 +1,7 @@
 <script setup lang="ts">
-import HelloWorld from "./components/HelloWorld.vue";
+import DiaryTimeline from "./components/DiaryTimeline.vue";
 </script>
 
 <template>
-  <HelloWorld />
+  <DiaryTimeline />
 </template>
